@@ -62,7 +62,7 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
-### Gabe
+### Jhon
 [Crownedprinz](https://github.com/Crownedprinz/)
 > “If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.” Einstein?
 ---
